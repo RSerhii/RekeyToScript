@@ -1,0 +1,24 @@
+{
+    "name": "rekeyer",
+    "version": "1.0.0",
+    "description": "Script to rekey Algorand waleet",
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "main": "rekeyer.js",
+    "scripts": {
+      "rekey": "node rekeyer.js --rekey"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "algosdk": "^1.17.0",
+      "memoizee": "^0.4.15",
+      "p-queue": "^3.0.0",
+      "command-line-args": "^5.1.1",
+      "command-line-usage": "^6.1.0"
+    },
+    "devDependencies": {
+    }
+  }
+  
