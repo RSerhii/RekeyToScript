@@ -9,7 +9,7 @@ To run the script it is important to have an environment with Node 14+ version a
 Before running the script setup `constants.js`:
 
 - `ALGO_NODE` - Algorand network node. Recommended to use Purestake `https://algorand.api.purestake.io/ps2` for mainnet operations
-- `PS_TOKEN` - Algorand API key. Register on at https://www.purestake.com/
+- `PS_TOKEN` - Algorand API key. Register one at https://www.purestake.com/
 
 Install dependencies using the following command in terminal (while in the project folder):
 
