@@ -20,7 +20,7 @@ Install dependencies using the following command in terminal (while in the proje
 Use the following command to perform rekey operation:
 
 ```bash
-npm run rekey --sa=<source_account>--ra=<rekey_account> --mn="<mnemonic>"
+npm run rekey --sa=<source_account> --ra=<rekey_account> --mn="<mnemonic>"
 ```
 
 where,
