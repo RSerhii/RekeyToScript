@@ -1,5 +1,5 @@
 const CONFIRMATION_NUMBER = 4;
-const ALGO_NODE = process.env.ALGO_NODE || 'https://algorand.api.purestake.io/ps2'
+const ALGO_NODE = process.env.ALGO_NODE || 'https://mainnet-algorand.api.purestake.io/ps2'
 const PS_PORT = process.env.PS_PORT || ''
 const PS_TOKEN = process.env.PS_TOKEN || ''
 const ALGORAND_QUEUE_INTERVAL_CAP = 20
